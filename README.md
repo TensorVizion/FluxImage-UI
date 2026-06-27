@@ -1,5 +1,4 @@
-## FLUX Image API Dashboard
-A sleek, modern web interface for generating images using the FLUX.1 [schnell] model via Modal GPU infrastructure. Built with vanilla HTML/CSS/JS — no frameworks required.
+Built with vanilla HTML/CSS/JS — no frameworks required.
 
 ## 🚀 Features
 ⚡ Single Image Generation – Generate 1024×1024 images in ~1–2 seconds
